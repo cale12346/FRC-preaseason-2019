@@ -12,7 +12,10 @@ class Robot: public IterativeRobot {
 public:
     Robot() { }
 
-    void RobotInit() { }
+    void RobotInit() {
+
+    //tusuighuirgr rgsouggrui
+  }
 
     void DisabledInit() { }
     void AutonomousInit() { }
